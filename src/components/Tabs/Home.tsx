@@ -20,8 +20,8 @@ const Home: React.FC = () => {
   return (
     <Tabs variant="soft-rounded" colorScheme="green" size="lg" isFitted>
       <TabList>
-        <Tab>Tab 1</Tab>
-        <Tab>Tab 2</Tab>
+        <Tab>Credit</Tab>
+        <Tab>Debit</Tab>
       </TabList>
       <TabPanels>
         <TabPanel>
