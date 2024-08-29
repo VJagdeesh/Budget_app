@@ -12,10 +12,11 @@
 
 .app {
   display: flex;
-  justify-content: flex-start; /* Align items to the left */
+  justify-content: space-between; /* Align items to the left */
   flex-direction: column;
   margin-left: 0px;
   text-align: left; /* Ensures text aligns to the left */
+  width: 150%;
 }
 
 .logo {
